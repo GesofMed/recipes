@@ -6,3 +6,4 @@ GesofMed recipes allow the automation of Composer packages configuration via the
 
 This repository contains "official" recipes for Composer packages endorsed by
 GesofMed SRL.
+

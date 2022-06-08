@@ -1,4 +1,4 @@
-name: Update Flex endpoint
+name: Callable Flex endpoint
 
 on:
     workflow_call:
