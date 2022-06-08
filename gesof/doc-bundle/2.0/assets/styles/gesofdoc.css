@@ -1,0 +1,33 @@
+.ui-widget-content {
+    background: none !important;
+    border: none !important;
+}
+.tree-item-content {
+    border-bottom: 1px solid #cccccc;
+    background-color: #f0f0f0;
+    padding-left: 8px;
+    line-height: 2rem;
+}
+
+html, body {
+    min-height: 100%;
+}
+#sidebar-left {
+    border-right: 1px solid gray;
+}
+
+#sidebar-left > ul, #sidebar-left > li {
+    margin-left: 0px;
+}
+
+.resource-file {
+    color: #337ab7 !important;
+}
+
+.resource-folder {
+    color: blue !important;
+}
+
+.daredevel-tree li span.daredevel-tree-anchor {
+    top: 0.5rem;
+}

@@ -1,0 +1,3 @@
+gesof_doc:
+  layout:
+    base: '@GesofDoc/layout.html.twig'
