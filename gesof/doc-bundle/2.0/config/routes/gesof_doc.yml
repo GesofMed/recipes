@@ -1,0 +1,7 @@
+GesofDocBundle_resource:
+    resource: "@GesofDocBundle/Resources/config/routing/resource.yml"
+    prefix:   /gesof/doc/resource
+    
+GesofDocBundle_main:
+    resource: "@GesofDocBundle/Resources/config/routing/main.yml"
+    prefix:   /gesof/doc

@@ -3,6 +3,7 @@
         "Gesof\\DocBundle\\GesofDocBundle": ["all"]
     },
     "copy-from-recipe": {
+        "assets/": "assets/",
         "config/": "%CONFIG_DIR%"
     }
 }
