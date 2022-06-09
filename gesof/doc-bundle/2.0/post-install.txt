@@ -1,1 +1,4 @@
-  * Doc Bundle is ready.
+  * Doc Bundle is ready at /gesof/doc . Include the followwing line in webpack.config.js (copy the js and css files if
+  they're not auto-installed)
+
+  .addEntry('gesofdoc', './assets/js/gesofdoc.js')
